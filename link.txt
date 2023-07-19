@@ -1,0 +1,3 @@
+Hand Gesture to Emoji Project Link:
+
+https://teachablemachine.withgoogle.com/models/FQB2K2fNw/model.json
